@@ -1,17 +1,22 @@
 # Datagrove Learning Guide
 The Learning Guide repository is a template for organizing notes and resources. Datagrove employees or contributors who pursue learning about a specific topic may use the Learning Guide repo to collect and share learning resources.
 
-## Learning Goal
+## Using This Repo
+* Clone and rename the Learning Guide repo rather than forking it so that you can create new copies when learning about different topics
+* Remember that Datagrove is committed to transparency and open source development - please do not include any proprietary, private or sensitive information in your Learning Guide
+
+## Contents
+### Learning Goal
 * Topic:
 * Dates:
-* At the end of this Learning Journey, I want to be able to <insert how you plan to be able to demonstrate your learning>
+* At the end of this Learning Journey, I want to be able to `<insert how you plan to be able to demonstrate your learning>`.
 
-## Learning Resources
+### Learning Resources
 * [Resource 1 Title](link)
 * [Resource 2 Title](link)
 * [Resource 3 Title](link)
   
-## Learning Share Plan
+### Learning Share Plan
 Use this space to outline how you plan to share your new knowledge. The Learning Share Plan should be as specific as possible, including dates, times, platforms, media, etc.
 
 Examples include:
