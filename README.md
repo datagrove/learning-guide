@@ -5,6 +5,7 @@ The Learning Guide repository is a template for organizing notes and resources. 
 * Clone and rename the Learning Guide repo rather than forking it so that you can create new copies when learning about different topics
 * Write actual code! Practice learning by doing, and plan to write and commit some code every day - even if it doesn't work yet
 * Remember that Datagrove is committed to transparency and open source development - please do not include any proprietary, private, or sensitive information in your Learning Guide
+* Please complete and keep all sections in the `Contents` section - the `Using This Repo` section may be deleted in your cloned repo if desired
 
 ## Contents
 ### Learning Goal
